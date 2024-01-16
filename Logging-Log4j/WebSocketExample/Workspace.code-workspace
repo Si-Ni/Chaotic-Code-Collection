@@ -1,0 +1,18 @@
+{
+  "folders": [
+	{
+		"path": "Client"
+	},
+	{
+		"path": "Server"
+	}
+],
+  "settings": {
+    "java.project.referencedLibraries": [
+      "lib/**/*.jar",
+      "h:\\Studium Informatik\\2. Semster\\Datenbanken_Datenverarbeitung\\Logging\\WebSocketExample\\Server\\libraries\\log4j-api-2.18.0.jar",
+      "h:\\Studium Informatik\\2. Semster\\Datenbanken_Datenverarbeitung\\Logging\\WebSocketExample\\Server\\libraries\\log4j-core-2.18.0.jar"
+    ],
+    "java.project.sourcePaths": ["src", "."]
+  }
+}
